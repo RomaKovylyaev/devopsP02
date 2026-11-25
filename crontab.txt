@@ -1,0 +1,1 @@
+* * * * * /home/ubuntu/devopsP02/weather.sh Perm > /home/ubuntu/devopsP02/cron.log 2>&1
